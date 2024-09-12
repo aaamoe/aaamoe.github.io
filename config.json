@@ -1,10 +1,13 @@
 {
-    "displayTitle":"Shawn",
+    "title":"Shawn",
+    "subTitle":"你的一切都值得记录",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/179384220?v=4",
+    "GMEEK_VERSION":"last"
+    
+   
 "homeUrl":"https://bbe.ee",
-"faviconUrl":"https://avatars.githubusercontent.com/u/179384220?v=4",
 "email":"hi@shawn.es",
 "startSite":"25/08/2024",
-"filingNum":"粤ICP备20080808号",
 "onePageListNum":15,
 "commentLabelColor":"#006b75",
 "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
@@ -22,7 +25,7 @@
 "indexScript":"",
 "showPostSource":1,
 "rssSplit":"sentence",
-"bottomText":"转载请注明出处：bbe.ee",
+"bottomText":"转载请注明出处 bbe.ee",
 "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
 "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
 "needComment":0,
