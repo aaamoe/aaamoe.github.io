@@ -14,4 +14,4 @@
 
 ![TG老板公告](https://github.com/user-attachments/assets/e7a07e3d-88cd-42a7-bdaa-e32ad7da6ff9)
 
-看到网友回复了，基于 Telegra.ph 的图床完蛋了。这个世界没有免费的午餐，有的话，那也是短暂的。往后的日子，要么继续折腾图床，要么 all in one 
+看到网友回复了，基于 Telegra.ph 的图床完蛋了。这个世界没有免费的午餐，有的话，那也是短暂的。往后的日子，要么继续折腾图床，要么 all in github 。
